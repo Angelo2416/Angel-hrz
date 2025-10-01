@@ -1,6 +1,9 @@
 # repo_tutorials
-clone this git 
+clone this git
 
-$  git clone https://github.com/takeshi-pumas/catkin_extras.git
+for shh 
+$  git clone git@github.com:Angelo2416/Angel-hrz.git
+
+for 
 
 # Angel Miguel Hernandez Abarca /Angel-hrz
